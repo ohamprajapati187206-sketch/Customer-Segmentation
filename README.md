@@ -1,5 +1,8 @@
 # Customer Segmentation
 
+### Segmentation App Link
+https://customer-segmentation-c7nsoriqhiuedrt89j6xw5.streamlit.app/
+
 ## Project Overview
 
 Customer Segmentation is a data analytics and machine learning project that groups customers into distinct segments based on their demographic information, purchasing behavior, and spending patterns.
